@@ -473,3 +473,15 @@ body.dark .interest ul li {
         top: 0;
     } */
 }
+
+
+
+    code {
+            display: block;
+            background-color: #333;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 10px 0;
+            color: #f8f8f8;
+            font-family: "Courier New", monospace;
+        }
